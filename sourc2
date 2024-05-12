@@ -1,0 +1,4 @@
+for i,v in getgenv() do
+print(i,v)
+
+end 
